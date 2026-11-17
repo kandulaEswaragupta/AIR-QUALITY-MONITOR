@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_800">#424242</color>
+
+    <!-- Primary App Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+
+    <!-- AQI Category Colors -->
+    <color name="aqi_good">#4CAF50</color>          <!-- 0-50 Green -->
+    <color name="aqi_moderate">#FBC02D</color>      <!-- 51-100 Yellow -->
+    <color name="aqi_usg">#F57C00</color>           <!-- 101-150 Orange -->
+    <color name="aqi_unhealthy">#E53935</color>     <!-- 151-200 Red -->
+    <color name="aqi_very_unhealthy">#8E24AA</color> <!-- 201-300 Purple -->
+    <color name="aqi_hazardous">#5D4037</color>      <!-- 301+ Dark Brown / Maroon -->
+</resources>
